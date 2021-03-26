@@ -1,0 +1,2 @@
+# Meditation-App-Android-
+About the App: Meditation is simple and easy. You can still have a hint, and learn the basics through the app. There are numerous benefits of meditation but the most significant ones are- inner peace, relief from stress, good health, success in education, improved relationships, freedom from addictions or bad habits, and finally ESP power. I've developed this project while in my 3rd year of undergraduate. - User friendly UI. - Best Quality Sound.
